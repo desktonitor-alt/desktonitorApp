@@ -1,0 +1,22 @@
+{
+  "email": {
+    "senderEmail": "desktonitor@gmail.com",
+    "senderName": "Desktonitor",
+    "smtpServer": "smtp.gmail.com",
+    "smtpPort": 587,
+    "useSSL": true
+  },
+  "gmail": {
+    "appPassword": "xilp jicu rcja qopf"
+  },
+  "monitor": {
+    "reportTitle": "Doussi m7amem :)"
+  },
+  "emailListener": {
+    "imapServer": "imap.gmail.com",
+    "imapPort": 993,
+    "checkIntervalSeconds": 30,
+    "markAsRead": true,
+    "restartOnEmail": true
+  }
+}
