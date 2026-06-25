@@ -1,5 +1,6 @@
 {
-  "version": "2.0.0.1",
+  "version": "2.0.0.2",
+  "reporterVersion": "0.12.6.0",
   "email": {
     "senderEmail": "desktonitor@gmail.com",
     "senderName": "Desktonitor",
@@ -11,7 +12,8 @@
     "appPassword": "xilp jicu rcja qopf"
   },
   "monitor": {
-    "reportTitle": "Doussi m7amem :)"
+    "reportTitle": "Doussi m7amem :)",
+    "openProcessLoggingEnabled": false
   },
   "emailListener": {
     "imapServer": "imap.gmail.com",
