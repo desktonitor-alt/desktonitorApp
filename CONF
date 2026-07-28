@@ -1,6 +1,5 @@
 {
-  "version": "2.0.0.13",
-  "reporterVersion": "0.12.6.0",
+  "version": "2.0.0.14",
   "email": {
     "senderEmail": "desktonitor@gmail.com",
     "senderName": "Desktonitor",
